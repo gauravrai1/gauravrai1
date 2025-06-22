@@ -1,17 +1,27 @@
-# Crafting Code Magic, One Semicolon at a Time
+# Building Reliable Systems, One Container at a Time
 
-### Hey there, code wizards and meme lovers! 👋 I'm an alumnus of Lakehead University, Canada, with a degree in Computer Science. I'm all about contributing to the rise of our robot overlords, and by that, I mean shaping our world through the power of computer science.
+Hey there, fellow builders and bug-slayers! 👋 I’m Gaurav — a Site Reliability Engineer at Loblaw Digital with a passion for making complex infrastructure simple, scalable, and solid.
 
-🚀 Now, I'm living the code dream at Viral Nation as a Backend Developer, where I wrestle with Typescript-based backends (don't worry, no JS code is harmed in the process).
+🚀 These days, I work on improving platform reliability, automating infrastructure with Terraform, managing Kubernetes (GKE) clusters, and upgrading service mesh components like Istio. I’ve also been diving deep into the world of observability with Prometheus, VictoriaMetrics, and Grafana — because what’s uptime without insight?
 
-🎓 I've had a Python-filled past, where I worked on a backend project for the Student Success Center at Lakehead University. The result? A shiny new Writing Assistant Tool, helping students level up their paraphrasing skills to avoid those pesky plagiarism goblins.
+👨‍💻 I’m also a backend developer at heart. In a past life, I wrangled Kafka consumers and social media firehoses at Viral Nation, working with Java and Spring Boot to build data pipelines that actually scaled.
 
-📲 In a parallel tech universe, I put on my superhero cape to build native iOS and Android apps for Infusionist. What was my mission? Helping nurses manage tasks related to infusions, because even healthcare heroes need some app magic.
+🐍 Before that, I built a Writing Assistant Tool for Lakehead University using Python — helping students level up their paraphrasing game. I even ventured into mobile app development, building native Android and iOS apps to support frontline nurses at Infusionist.
 
-🌿 I'm also on a quest to conquer new tech territories, currently sharpening my DevOps, Flask, and React.js swords to slay the ever-evolving dragon of technological advancement.
+🛠️ These days, I love building small but mighty CLI tools in Go — whether it's templating Grafana dashboards or helping manage storage on macOS. If it's automatable, I'm probably already working on it.
 
-🤝 Got a cool project with Node.js, Android, Kotlin, or Python-based backends in mind? Let's team up! Together, we can create the Avengers of the tech world.
+🎯 Interests:
 
-📈 Before all this, I played a part in crafting 'Rivi', an AI-based travel planner app. It was like giving a smart assistant to your adventurous spirit, revolutionizing the way we plan our escapades.
+- Kubernetes | GCP | Terraform
 
-In the immortal words of Mario, "Let's-a go!" Being a software developer isn't just my 9-to-5, it's the mushroom power to my Super Mario. I'm here to change the game, one line of code at a time, and I'm always eager to team up with people who share the same vision. If that's you, let's create our version of the code-filled, fun, meme-tastic Mushroom Kingdom. Here's to coding a fun future together! 🍻
+- Golang | Java | Python
+
+- CI/CD pipelines
+
+- Developer tooling & automation
+
+- Reliable, maintainable systems
+
+🍄 Whether it’s deploying apps, building tools, or keeping infra sane — I believe tech should be reliable, fun, and built with purpose.
+
+Let’s connect, collaborate, and maybe exchange a meme or two along the way. Here’s to building cool stuff that doesn’t wake you up at 3 AM. ✨
