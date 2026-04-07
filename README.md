@@ -1,27 +1,27 @@
-# Building Reliable Systems, One Container at a Time
+# Gaurav Rai
 
-Hey there, fellow builders and bug-slayers! 👋 I’m Gaurav — a Site Reliability Engineer at Loblaw Digital with a passion for making complex infrastructure simple, scalable, and solid.
+Application Engineer II · Toronto, Canada · building tools that make infra boring (in a good way)
 
-🚀 These days, I work on improving platform reliability, automating infrastructure with Terraform, managing Kubernetes (GKE) clusters, and upgrading service mesh components like Istio. I’ve also been diving deep into the world of observability with Prometheus, VictoriaMetrics, and Grafana — because what’s uptime without insight?
+I work at the intersection of platform engineering and developer experience — automating the toil, wiring up the observability, and shipping the Go CLI that nobody asked for but everyone ends up using.
 
-👨‍💻 I’m also a backend developer at heart. In a past life, I wrangled Kafka consumers and social media firehoses at Viral Nation, working with Java and Spring Boot to build data pipelines that actually scaled.
+## what I'm working with
 
-🐍 Before that, I built a Writing Assistant Tool for Lakehead University using Python — helping students level up their paraphrasing game. I even ventured into mobile app development, building native Android and iOS apps to support frontline nurses at Infusionist.
+`Go` `Kubernetes / ArgoCD` `OpenTelemetry` `Grafana / ClickHouse` `Terraform / GitLab CI` `TypeScript` `Kafka` `gRPC` `Next.js` `Supabase`
 
-🛠️ These days, I love building small but mighty CLI tools in Go — whether it's templating Grafana dashboards or helping manage storage on macOS. If it's automatable, I'm probably already working on it.
+## things I've built
 
-🎯 Interests:
+- Go CLI to automate Grafana dashboard migrations — turned a weeks-long manual process into a few commands
+- Observability stack with OpenTelemetry, Fluent Bit, and ClickHouse for unified logs/metrics/traces
+- Social media data pipelines at Viral Nation handling high-volume firehoses with Kafka + gRPC at scale
+- Writing assistant platform at Lakehead University used by 500+ students per term
+- Native Android + iOS apps for frontline nurses — Swift, Kotlin, the whole deal
 
-- Kubernetes | GCP | Terraform
+## also me
 
-- Golang | Java | Python
+- Building micro-SaaS side projects on weekends with Next.js + Supabase
+- If something's repetitive, I've probably already half-written a script for it
+- Cricket brain, always
 
-- CI/CD pipelines
+---
 
-- Developer tooling & automation
-
-- Reliable, maintainable systems
-
-🍄 Whether it’s deploying apps, building tools, or keeping infra sane — I believe tech should be reliable, fun, and built with purpose.
-
-Let’s connect, collaborate, and maybe exchange a meme or two along the way. Here’s to building cool stuff that doesn’t wake you up at 3 AM. ✨
+Always happy to connect — especially if you're into developer tooling, platform engineering, or building small things that solve real problems. Just don't ping me at 3 AM about a P0.
